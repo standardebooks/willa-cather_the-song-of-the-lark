@@ -61,43 +61,6 @@ footer{
 	font-variant: small-caps;
 }
 
-section.epub-type-dedication{
-	text-align: center;
-}
-
-section.epub-type-dedication p{
-	font-variant: small-caps;
-}
-
-section.epub-type-dedication > *{
-	display: inline-block;
-	margin-top: auto;
-	margin-right: auto;
-	margin-bottom: auto;
-	margin-left: auto;
-	margin-top: 3em;
-	max-width: 80%;
-}
-
-@supports(display: flex){
-	section.epub-type-dedication{
-		align-items: center;
-		box-sizing: border-box;
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		min-height: calc(98vh - 3em);
-		padding-top: 3em;
-	}
-
-	section.epub-type-dedication > *{
-		margin-top: 0;
-		margin-right: 0;
-		margin-bottom: 0;
-		margin-left: 0;
-	}
-}
-
 h2.first-child{
 	font-weight: bold;
 	hanging-punctuation: first last;
