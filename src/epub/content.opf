@@ -68,7 +68,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/44</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001113139</dc:source>
 		<meta property="se:production-notes">Some dialect has stretched-out words represented with no-break hyphens. Typogrify and modernize-spelling must not change those.</meta>
-		<meta property="se:word-count">154492</meta>
+		<meta property="se:word-count">154483</meta>
 		<meta property="se:reading-ease.flesch">82.44</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Song_of_the_Lark</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/willa-cather_the-song-of-the-lark</meta>
