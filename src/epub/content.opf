@@ -61,7 +61,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Prairie Trilogy</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:abstract>A young girl leaves her small-town life in 1890s Colorado to become a highly accomplished singer.</dc:abstract>
+		<meta property="schema:abstract">A young girl leaves her small-town life in 1890s Colorado to become a highly accomplished singer.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Song of the Lark&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/willa-cather"&gt;Willa Cather’s&lt;/a&gt; third novel, was written in 1915. It is said to have been inspired by the real-life soprano Olive Fremstad, a celebrated Swedish-American singer who, like the protagonist, was active in New York and Europe during the time period depicted in the novel.&lt;/p&gt;
 			&lt;p&gt;The work explores how an artist’s early life influences their work. In the novel, Thea Kronborg discovers her talent as a singer, and goes on to achieve great fame and success once she leaves her tiny village of Moonstone. Cather eschewed depicting rural life as being idyllic, instead focusing on the conservative, restricted, patriarchal structures that its inhabitants live by. Her work is thus considered to be one of the earliest so-called “Revolt Novels.” She depicts a time at the end of the 19th century when the American West was expanding rapidly and Americans were gaining sophistication in their understanding of culture and artists, particularly compared to Europe. The title of the novel comes from the name of a 1884 painting by Jules Breton, which is described and considered in the book itself.&lt;/p&gt;
