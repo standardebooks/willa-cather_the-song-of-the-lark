@@ -31,14 +31,14 @@
 		<dc:title id="title">The Song of the Lark</dc:title>
 		<meta property="file-as" refines="#title">Song of the Lark, The</meta>
 		<dc:subject id="subject-1">Musical fiction</dc:subject>
-		<dc:subject id="subject-2">Young women -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Young women--Fiction</dc:subject>
 		<dc:subject id="subject-3">Bildungsromans</dc:subject>
-		<dc:subject id="subject-4">Chicago (Ill.) -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Swedish Americans -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Colorado -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Opera -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Children of clergy -- Fiction</dc:subject>
-		<dc:subject id="subject-9">Women singers -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Chicago (Ill.)--Fiction</dc:subject>
+		<dc:subject id="subject-5">Swedish Americans--Fiction</dc:subject>
+		<dc:subject id="subject-6">Colorado--Fiction</dc:subject>
+		<dc:subject id="subject-7">Opera--Fiction</dc:subject>
+		<dc:subject id="subject-8">Children of clergy--Fiction</dc:subject>
+		<dc:subject id="subject-9">Women singers--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85088958</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
